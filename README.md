@@ -19,6 +19,8 @@ AP化学考试里就只有6个强酸，其他一律认为是弱酸：盐酸Hydro
 至于怎么算pH和Ka，formula sheet里面有。在 HA <=> H+ + A- 里，Ka=[H+][A-]/[HA]，
 
 
+pH change by factor of 1, volume change by factor of 10 (https://youtu.be/N4xz0S_WpMk?list=PLoGgviqq4845Sy3UfnNh_PljzAptMR7MQ&t=444)
+
 ICE table 简化版：
 1 ions：Ksp = S
 2 ions: Ksp = S^2
