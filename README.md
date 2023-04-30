@@ -18,6 +18,14 @@ AP化学考试里就只有6个强酸，其他一律认为是弱酸：盐酸Hydro
 至于怎么算pH和Ka，formula sheet里面有。在 HA <=> H+ + A- 里，Ka=[H+][A-]/[HA]，
 
 
+ICE table 简化版：
+1 ions：Ksp = S
+2 ions: Ksp = S^2
+3 ions: Ksp = 4S^3
+4 ions: Ksp = 27S^4
+5 ions: Ksp = 108S^5
+上表来自CB官方：https://youtu.be/t111LrsD-5Y?list=PLoGgviqq4845Sy3UfnNh_PljzAptMR7MQ&t=182
+
 ----------------------------------------------------------------------------------------------------
 
 滴定法的等价点：
