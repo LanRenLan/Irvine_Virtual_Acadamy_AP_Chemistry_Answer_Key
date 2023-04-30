@@ -3,6 +3,7 @@ This Repo is the archive of Irvine Virtual Acadamy AP Chemistry 2022~2023 Spring
 # How to use
 If you are not fimilar with this website(GitHub), just click on the green button <>Code, and download as ZIP. Unzip it you will get all the html files of AP Classroom answers, double click any of them, and your browser will open it. If you think it is too slow, try QuickLook under Windows to preview, and Macbook has its own preview
 
+<!--
 # 讲课
 ap化学其实很简单，别看College Board告诉你每个单元都是多少percent的题目数量，其实重点都在equilibrium和acid-base，而且acid-base reactiin本身就有equilibrium，所以这俩是同一个话题。
 
@@ -107,3 +108,4 @@ VESPR Theory/分子3D结构
 4.六方密堆积（hexagonal close-packed, HCP）: 这种结构中的原子以六方形网格排列，层与层之间的原子互相嵌套。每个原子有12个相邻的原子。六方密堆积晶体的配位数为12。
 
 5.钻石立方（diamond cubic）: 钻石立方结构通常在金刚石以及硅和锗这类半导体材料中发现。它类似于面心立方结构，但原子间的连接方式略有不同。每个原子有4个最近相邻原子，4个较远的相邻原子。钻石立方晶体的配位数为8。
+-->
