@@ -17,6 +17,7 @@ ap化学其实很简单，别看College Board告诉你每个单元都是多少pe
 
 这七个是强碱：LiOH (lithium hydroxide)，NaOH (sodium hydroxide)，KOH (potassium hydroxide)，Ca(OH)2 (calcium hydroxide)，RbOH (rubidium hydroxide)，Sr(OH)2 (strontium hydroxide)，CsOH (cesium hydroxide)，Ba(OH)2 (barium hydroxide) 至于怎么算pH和Ka，formula sheet里面有。在 HA <=> H+ + A- 里，Ka=[H+][A-]/[HA]， 
 
+<!---
 pH change by factor of 1, volume change by factor of 10 (https://youtu.be/N4xz0S_WpMk?list=PLoGgviqq4845Sy3UfnNh_PljzAptMR7MQ&t=444) 
 
 ---------------------------------------------------------------------------------------------------- 
@@ -28,7 +29,7 @@ ICE table 简化版：
 4 ions: Ksp = 27S^4
 5 ions: Ksp = 108S^5
 上表来自CB官方：https://youtu.be/t111LrsD-5Y?list=PLoGgviqq4845Sy3UfnNh_PljzAptMR7MQ&t=182 
-
+--->
 ---------------------------------------------------------------------------------------------------- 
 
 滴定法的等价点： 强酸与强碱：在强酸强碱滴定中，等价点的pH通常接近7，因为水解产物对溶液的酸碱性影响较小。 弱酸与强碱：在弱酸强碱滴定中，等价点的pH通常大于7，因为弱酸的共轭碱（A-）会与水发生水解，生成OH-离子，使溶液呈碱性。 强酸与弱碱：在强酸弱碱滴定中，等价点的pH通常小于7，因为弱碱的共轭酸（HA）会与水发生水解，生成H3O+离子，使溶液呈酸性。 弱酸与弱碱：在弱酸弱碱滴定中，等价点的pH取决于相对强度的差异。它可能大于、小于或接近7。
