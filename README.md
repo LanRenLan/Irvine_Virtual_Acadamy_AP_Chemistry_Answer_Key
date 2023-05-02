@@ -6,6 +6,8 @@ This Repo is the archive of Irvine Virtual Acadamy AP Chemistry 2022~2023 Spring
 If you are not fimilar with this website(GitHub), just click on the green button <>Code, and download as ZIP. Unzip it you will get all the html files of AP Classroom answers, double click any of them, and your browser will open it. If you think it is too slow, try QuickLook under Windows to preview, and Macbook has its own preview 
 
 # 讲课
+
+# 2023年5月1日 洛杉矶时间下午4点43分，我考废了，再见/This section is abandoned, I failed the exam
 欢迎把issues当评论区用，PR也可以
 
 ap化学其实很简单，别看College Board告诉你每个单元都是多少percent的题目数量，其实重点都在equilibrium和acid-base，而且acid-base reactiin本身就有equilibrium，所以这俩是同一个话题。
